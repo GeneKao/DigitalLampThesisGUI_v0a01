@@ -1,0 +1,4 @@
+#!/bin/sh
+
+APPDIR=$(dirname "$0")
+java  -Djava.library.path="$APPDIR" -cp "$APPDIR/lib/DigitalLampThesisGUI_v0a01.jar:$APPDIR/lib/gluegen-rt.jar:$APPDIR/lib/jogl.jar:$APPDIR/lib/opengl.jar:$APPDIR/lib/ant-launcher.jar:$APPDIR/lib/ant.jar:$APPDIR/lib/core.jar:$APPDIR/lib/controlP5.jar:$APPDIR/lib/batikfont.jar:$APPDIR/lib/geomerative.jar:$APPDIR/lib/peasycam.jar:$APPDIR/lib/superCAD.jar:$APPDIR/lib/toxiclibs_p5.jar:$APPDIR/lib/toxiclibscore.jar:$APPDIR/lib/volumeutils.jar"digitallampthesisgui_v0a01.DigitalLampThesisGUI_v0a01
