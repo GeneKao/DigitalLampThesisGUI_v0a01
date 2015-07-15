@@ -15,4 +15,4 @@ The Digital Lamp of Architecture
 For more information to see my website:
 www.geneatcg.com
 
-[![ScreenShot](https://i.ytimg.com/vi/bwhxG6XmvGQ/2.jpg?time=1436962194843)](https://www.youtube.com/watch?v=bwhxG6XmvGQ)
+[![ScreenShot](https://www.youtube.com/watch?v=bwhxG6XmvGQ/0.jpg)](https://www.youtube.com/watch?v=bwhxG6XmvGQ)
