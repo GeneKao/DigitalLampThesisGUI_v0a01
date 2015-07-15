@@ -17,6 +17,7 @@ The Digital Lamp of Architecture
 
 For more information to see my website:
 www.geneatcg.com
+
 Or this blog post:
 http://www.geneatcg.com/2015/07/15/digitallampthesisgui_v0a01/
 
