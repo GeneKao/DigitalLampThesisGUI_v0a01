@@ -17,7 +17,10 @@ public class DigitalLampThesisGUI_v0a01 extends PApplet {
     /**
      * This is GUI software of Project of "The Digital Lamp of Architecture"
      * Written by Gene Ting-Chun Kao +GENEATCG http://www.geneatcg.com all right
-     * reserve. Code credit to Jared Counts Curtain Coding Structure in
+     * reserve. 
+     * Code written in 2013/05
+     * 
+     * Code credit to Jared Counts Curtain Coding Structure in
      * BlueThen.com
      */
     private static final long serialVersionUID = 1L;

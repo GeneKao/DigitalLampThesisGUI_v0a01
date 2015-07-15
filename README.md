@@ -3,7 +3,10 @@ The Digital Lamp of Architecture - A New Church Prototype
 
     * This is GUI software of Project of "The Digital Lamp of Architecture"
     * Written by Gene Ting-Chun Kao +GENEATCG http://www.geneatcg.com all right
-    * reserve. Code credit to Jared Counts Curtain Coding Structure in
+    * reserve.
+    * Code written in 2013/05
+    *
+    * Code credit to Jared Counts Curtain Coding Structure in
     * BlueThen.com
 
 The Digital Lamp of Architecture referred to John Ruskin's book "The Seven Lamps of Architecture, " and make a comparison between its age and our digital age. Through traveling, description in theory can be highly discovered within backpacker's own eye. Finally, digital technology was implanted into church architecture as an example to reflect on Ruskin's theory. One of the most important element is "Sublime." Besides, scale, structure and ornamentation was used to interpret and practice in Digital Architecture.
